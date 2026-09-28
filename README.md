@@ -1,4 +1,4 @@
-# Weather MCP Server
+# Weather_MCP_Server
 
 This is a sample MCP Server in Python implementing weather tools with mock responses. It can be used as a scaffold for your own MCP Server. It includes the following features: 
 

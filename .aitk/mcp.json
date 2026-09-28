@@ -1,0 +1,8 @@
+{
+    "servers": {
+        "local-server-ai_agent": {
+            "type": "http",
+            "url": "http://localhost:3001/mcp"
+        }
+    }
+}
